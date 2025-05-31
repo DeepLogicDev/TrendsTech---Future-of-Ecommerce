@@ -1,0 +1,369 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop 1",
+        "price": "$225.00",
+        "images": [
+            "images/Accessories/Retro-sunglasses_03.webp"
+        ],
+        "category": "Accessories",
+        "description": "Lightning-Fast Performance in Ultra-Slim Design – Your Next-Level Laptop Awaits!"
+    },
+    {
+        "id": 2,
+        "name": "Laptop 2",
+        "price": "$22.00",
+        "images": [
+            "images/Accessories/scrf1.webp",
+            "images/Accessories/scrf2.webp",
+            "images/Accessories/scrf3.webp"
+        ],
+        "category": "Accessories",
+        "isTrending":true,
+        "description": "Turn Your Ideas into Reality with the Ultimate Performance Laptop!"
+    },
+    {
+        "id": 3,
+        "name": "Laptop 3",
+        "price": "$77.00",
+        "images": [
+            "images/Accessories/Platform-Canvas-Sneakers_03.webp"
+        ],
+        "category": "Accessories",
+        "description": "Built for Speed, Designed for Style – The Laptop That Does It All!"
+    },
+    {
+        "id": 4,
+        "name": "Laptop 4",
+        "price": "$128.00",
+        "images": [
+            "images/Accessories/Quilted-Heeled-Mule-Sandal_01.webp"
+        ],
+        "category": "Accessories",
+        "description": "Revolutionize Your Workflow with Seamless Connectivity & Lightning-Fast SSD!"
+    },
+    {
+        "id": 5,
+        "name": "Laptop 5",
+        "price": "$22.00",
+        "images": [
+            "images/woman/ultimate-crop-bandeau-tops_01.webp",
+            "images/woman/ultimate-crop-bandeau-tops_black_01.webp",
+            "images/woman/ultimate-crop-bandeau-tops_black_02.webp"
+        ],
+        "category": "Woman",
+        "isTrending": true,
+        "description": "Zoom Into Action: Crystal-Clear Shots from Afar – No Detail Left Behind!"
+    },
+    {
+        "id": 6,
+        "name": "Laptop 6",
+        "price": "$85.00",
+        "images": [
+            "images/Accessories/Adilette-Slide-Sandal_01.webp",
+            "images/Accessories/Adilette-Slide-Sandal_color_01.webp"
+        ],
+        "category": "Accessories",
+        "description": "Ready When You Are: Instant Wake, Ultra-Responsive Performance!"
+    },
+    {
+        "id": 7,
+        "name": "Camera 1",
+        "price": "$100.00",
+        "images": [
+            "images/woman/Pieces-short-sleeve-sweater_01.webp",
+            "images/woman/Pieces-short-sleeve-sweater_02.webp",
+            "images/woman/Pieces-short-sleeve-sweater_03.webp"
+        ],
+        "category": "Woman",
+        "isTrending": true,
+        "description": "Unleash Your Creativity: High-Resolution Images with Vibrant Colors!"
+    },
+    {
+        "id": 8,
+        "name": "camera 2",
+        "price": "$82.00 - $89.00",
+        "images": [
+            "images/woman/Simona-Ribbed-Cardigan_05.webp",
+            "images/woman/Simona-Ribbed-Cardigan_03.webp",
+            "images/woman/SW1.webp"
+        ],
+        "category": "Woman",
+        "isTrending": true,
+        "description": "Transform Your Photos: Intelligent Editing Features at Your Fingertips!"
+    },
+    {
+        "id": 9,
+        "name": "camera 3",
+        "price": "$50.00",
+        "images": [
+            "images/woman/image68.webp",
+            "images/woman/image67.webp"
+        ],
+        "category": "Woman",
+        "isTrending": true,
+        "description": "The Oversized T-shirt in Multi-colors offers a relaxed fit and vibrant design. Ideal for casual and comfortable wear."
+    },
+    {
+        "id": 10,
+        "name": "camera 4",
+        "price": "$158.00",
+        "images": [
+            "images/woman/classic-oversized-sweatshirt_01.webp",
+            "images/woman/classic-oversized-sweatshirt_04.webp"
+        ],
+        "category": "Woman",
+        "description": "Adventure Awaits: Rugged, Waterproof Design for the Ultimate Explorer!"
+    },
+    {
+        "id": 11,
+        "name": "Laptop 7",
+        "price": "$54.00",
+        "images": [
+            "images/Accessories/straw-floppy-hat_03.webp"
+        ],
+        "category": "Accessories",
+        "description": "Stay Connected, Stay Productive – The Ultimate Workstation in Your Bag!"
+    },
+    {
+        "id": 12,
+        "name": "Laptop 8",
+        "price": "$86.00",
+        "images": [
+            "images/Accessories/sunglasses1.webp"
+        ],
+        "category": "Accessories",
+        "description": "Fast, Fierce, and Flawless – The Laptop Built for Modern Living!"
+    },
+    {
+        "id": 13,
+        "name": "Watch 1",
+        "price": "$39.00",
+        "images": [
+            "images/Bags/Pride-Sport-Hip-Pack-_04.webp",
+            "images/Bags/Pride-Sport-Hip-Pack-_03.webp"
+        ],
+        "category": "Bags",
+        "description": "Time Redefined: Experience Elegance on Your Wrist!"
+    },
+    {
+        "id": 14,
+        "name": "Watch 2",
+        "price": "$18.00",
+        "images": [
+            "images/Bags/p27-3_7e6d6ca6-5882-4c64-a166-577d894b0ac3.webp",
+            "images/Bags/p27-1_1bcb95c6-a3da-4de5-b15e-ec08d4cb84b9.webp"
+        ],
+        "category": "Bags",
+        "description": "Timeless Design, Modern Technology: A Watch for Every Generation!"
+    },
+    {
+        "id": 15,
+        "name": "Camera 5",
+        "price": "$188.00",
+        "images": [
+            "images/woman/knit-dress-in-green_03.webp"
+        ],
+        "category": "Woman",
+        "description": "Your Memories, Perfectly Preserved – 4K Video for Unmatched Clarity!"
+    },
+    {
+        "id": 16,
+        "name": "Camera 6",
+        "price": "$48.00",
+        "images": [
+            "images/woman/beanie-in-chocolate-brown_03.webp",
+            "images/woman/beanie-in-chocolate-brown_02.webp"
+        ],
+        "category": "Woman",
+        "description": "Discover New Perspectives: Ultra-Wide Angles for Stunning Landscapes!"
+    },
+    {
+        "id": 17,
+        "name": "Camera 7",
+        "price": "$148.00",
+        "images": [
+            "images/woman/relaxed-gym-tank-top_01.webp",
+            "images/woman/relaxed-gym-tank-top_04.webp"
+        ],
+        "category": "Woman",
+        "description": "Take Control: Advanced Manual Settings for the Ultimate Photography Experience!"
+    },
+    {
+        "id": 18,
+        "name": "Camera 8",
+        "price": "$78.00",
+        "images": [
+            "images/woman/image77.webp",
+            "images/woman/image76.webp"
+        ],
+        "category": "Woman",
+        "description": "Turn Every Snap into a Story – Intelligent Scene Recognition Technology!"
+    },
+    {
+        "id": 19,
+        "name": "TV 1",
+        "price": "$198.00",
+        "images": [
+            "images/man/hoodie-in-blue_01.webp",
+            "images/man/hoodie-in-blue_02.webp"
+        ],
+        "category": "Man",
+        "description": "Connect and Control: Your TV, Your Way – Voice and App Control!"
+    },
+    {
+        "id": 20,
+        "name": "TV 2",
+        "price": "$266.00",
+        "images": [
+            "images/man/jacket-with-hood-in-stone_02.webp",
+            "images/man/jacket-with-hood-in-stone_04.webp"
+        ],
+        "category": "Man",
+        "isTrending":true,
+        "description": "Surround Yourself with Sound: Crystal-Clear Audio That Moves You!"
+    },
+    {
+        "id": 21,
+        "name": "TV 3",
+        "price": "$198.00",
+        "images": [
+            "images/man/slim-formal-shirt-in-white_01.webp",
+            "images/man/slim-formal-shirt-in-white_01.webp"
+        ],
+        "category": "Man",
+        "description": "Watch Your World Come to Life: Exceptional HDR for Vivid Visuals!"
+    },
+    {
+        "id": 22,
+        "name": "TV 4",
+        "price": "$106.00",
+        "images": [
+            "images/man/tapered-pants-in-camel-_01.webp",
+            "images/man/tapered-pants-in-camel-_04.webp"
+        ],
+        "category": "Man",
+        "description": "Colors Come Alive: See Your Favorite Shows Like Never Before!"
+    },
+    {
+        "id": 23,
+        "name": "TV 5",
+        "price": "$52.00",
+        "images": [
+            "images/man/sleeve-flower-print-revere_02.webp"
+        ],
+        "category": "Man",
+        "description": "Transform Your Living Room into a Cinema: Big Screen, Big Experience!"
+    },
+    {
+        "id": 24,
+        "name": "TV 6",
+        "price": "$35.00",
+        "images": [
+            "images/man/Color-block-bucket-hat_03.webp",
+            "images/man/Color-block-bucket-hat_04.webp"
+        ],
+        "category": "Man",
+        "description": "Binge-Worthy Experience: Fast Loading, Zero Buffering – Just Press Play!"
+    },
+    {
+        "id": 25,
+        "name": "TV 7",
+        "price": "$52.00",
+        "images": [
+            "images/man/cargo-pants-with-front-pocket_04.webp",
+            "images/man/cargo-pants-with-front-pocket_03.webp"
+        ],
+        "category": "Man",
+        "description": "Smart Technology, Smart Choices: Energy Efficient and Eco-Friendly!"
+    },
+    {
+        "id": 26,
+        "name": "Smart Phone 1",
+        "price": "$71.00",
+        "images": [
+            "images/Jewelry/Butterfly-Charm-Hoop-Earring_03.webp",
+            "images/Jewelry/Butterfly-Charm-Hoop-Earring_02.webp"
+        ],
+        "category": "Jewelry",
+        "isTrending":true,
+        "description": "Stay Connected, Stay Smart: The Ultimate Companion for Your Life!"
+    },
+    {
+        "id": 27,
+        "name": "Smart Phone 2",
+        "price": "$198.00",
+        "images": [
+            "images/Jewelry/ROW-CLEAR-CZ-RING_03.webp",
+            "images/Jewelry/ROW-CLEAR-CZ-RING_02.webp"
+        ],
+        "category": "Jewelry",
+        "description": "Seamless Connectivity: Stay in Touch with 5G Speed!"
+    },
+    {
+        "id": 28,
+        "name": "Smart Phone 3",
+        "price": "$71.00",
+        "images": [
+            "images/Jewelry/PIN-CLEAR-CZ-RING_01.webp",
+            "images/Jewelry/PIN-CLEAR-CZ-RING_02.webp"
+        ],
+        "category": "Jewelry",
+        "description": "Immerse Yourself: Crystal-Clear Display for Movies, Games, and More!"
+    },
+    {
+        "id": 29,
+        "name": "Smart Phone 4",
+        "price": "$106.00",
+        "images": [
+            "images/Jewelry/GOLD-TONE-CLEAR-CZ_03.webp",
+            "images/Jewelry/GOLD-TONE-CLEAR-CZ_04.webp"
+        ],
+        "category": "Jewelry",
+        "description": "Security You Can Trust: Advanced Face and Fingerprint Recognition!"
+    },
+    {
+        "id": 30,
+        "name": "Smart Phone 5",
+        "price": "$166.00",
+        "images": [
+            "images/Jewelry/Diamante-Butterfly-Necklace_01.webp"
+        ],
+        "category": "Jewelry",
+        "description": "Effortless Multitasking: Split Screen and Picture-in-Picture Modes!"
+    },
+    {
+        "id": 31,
+        "name": "Smart Phone 6",
+        "price": "$195.00",
+        "images": [
+            "images/Jewelry/CLEAR-CZ-FLORAL-LETTER-NECKLACE_01.webp",
+            "images/Jewelry/CLEAR-CZ-FLORAL-LETTER-NECKLACE_02.webp"
+        ],
+        "category": "Jewelry",
+        "description": "Capture Every Moment: Stunning Photos with Pro-Grade Cameras!"
+    },
+    {
+        "id": 32,
+        "name": "Smart Phone 7",
+        "price": "$86.00",
+        "images": [
+            "images/Jewelry/ADJUSTABLE-BOWLINE-NECKLACE_01.webp"
+        ],
+        "category": "Jewelry",
+        "description": "Unleash the Power: Your Pocket-Sized Supercomputer Awaits!"
+    },
+    {
+        "id": 33,
+        "name": "Camera 9",
+        "price": "$199.00",
+        "images": [
+            "images/woman/Jacket-_-Sun-Bleached_01.webp",
+            "images/woman/Jacket-_-Sun-Bleached_02.webp",
+            "images/woman/Jacket-_-Sun-Bleached_03.webp"
+        ],
+        "isTrending":true,
+        "category": "Woman",
+        "description": "Capture Life's Moments in Stunning Detail – Every Shot, A Masterpiece!"
+    }
+]
